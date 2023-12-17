@@ -18,6 +18,6 @@ foooo
 
 ## Title 2
 
-foooo
+fuuuu
 
 ![test](/assets/test.png)
