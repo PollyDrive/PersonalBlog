@@ -1,45 +1,9 @@
-<h1 align="center">
-    Logseq-Hugo-Template
-</h1>
 
-<p align="center">
-    <a href="https://github.com/CharlesChiuGit/Logseq-Hugo-Template/stargazers">
-    <img
-        alt="GitHub Repo stars"
-        src="https://img.shields.io/github/stars/CharlesChiuGit/Logseq-Hugo-Template?color=957FB8&logo=starship&style=for-the-badge">
-    </a>
-    <a href="https://github.com/CharlesChiuGit/Logseq-Hugo-Template/issues">
-    <img
-        alt="GitHub issues"
-        src="https://img.shields.io/github/issues-raw/CharlesChiuGit/Logseq-Hugo-Template?color=DCA561&logo=gitbook&logoColor=d9e0ee&style=for-the-badge">
-    <a href="https://github.com/CharlesChiuGit/Logseq-Hugo-Template/contributors">
-    <img
-        alt="GitHub contributors"
-        src="https://img.shields.io/github/contributors/CharlesChiuGit/Logseq-Hugo-Template?color=%2398BB6C&logo=opensourceinitiative&logoColor=d9e0ee&style=for-the-badge">
-    </a>
-    <img
-        alt="GitHub code size in bytes"
-        src="https://img.shields.io/github/languages/code-size/CharlesChiuGit/Logseq-Hugo-Template?color=%237E9CD8&logo=gitlfs&logoColor=d9e0ee&style=for-the-badge">
-</p>
-
-<p align="center">
-    <img
-        alt="HTML"
-        src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <a href="https://logseq.com/#/">
-    <img
-        alt="Logseq"
-        src="https://img.shields.io/static/v1?label=&message=LOGSEQ&color=002B35&style=for-the-badge">
-    </a>
-</a>
 
 ## Description
 
 This is a [HUGO](https://gohugo.io/) website template for [Logseq](https://logseq.com/#/) users who want their published posts to look more like a personal website, using [GitHub Pages](https://pages.github.com/) to host the website and [logseq-schrodinger](https://github.com/sawhney17/logseq-schrodinger) to export your Logseq pages.
 
-<p align="center">
-        <img src="./src/thanos_logseq_hugo.svg" style="width:50%"/>
-</p>
 
 ## Credits
 
