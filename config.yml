@@ -5,12 +5,12 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: σχολή (schola) – «досуг, свободное времяпровождение»
-    Content: Тут можно найти кружки по интересам, единомышленников и учителей
+    Title: Школа – площадка для досуга
+    Content: σχολή (schola) – «досуг, свободное времяпровождение». Тут можно найти кружки по интересам, единомышленников и учителей
 
   socialIcons: # optional
-    - name: "youtube"
-      url: "https://www.youtube.com/channel/UCfdvqLvTzcyw6iRnHq-JQZA"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/channel/UCfdvqLvTzcyw6iRnHq-JQZA"
     - name: "telegram"
       url: "https://t.me/PollyDrive"
     # - name: "kofi"
