@@ -1,6 +1,6 @@
-baseURL: https://schola.github.io
-languageCode: en-us
-title: Polly Drive
+baseURL: https://pollydrive.github.io
+languageCode: ru-ru
+title: schola
 theme: "PaperMod"
 
 params:
