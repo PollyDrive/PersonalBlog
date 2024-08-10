@@ -1,16 +1,14 @@
-baseURL: https://PollyDrive.github.io
+baseURL: https://schola.github.io
 languageCode: en-us
 title: Polly Drive
 theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Yo 😎
-    Content: This is something shows in your homepage.
+    Title: σχολή (schola) – «досуг, свободное времяпровождение»
+    Content: Тут можно найти кружки по интересам, единомышленников и учителей
 
   socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/pollydrive"
     - name: "youtube"
       url: "https://www.youtube.com/channel/UCfdvqLvTzcyw6iRnHq-JQZA"
     - name: "telegram"
@@ -47,18 +45,18 @@ outputs:
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: Категории кружков 
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Кураторы
       url: /tags/
       weight: 20
     - identifier: search
-      name: Search
+      name: Поиск
       url: /search/
       weight: 20
     - identifier: archive
-      name: Archive
+      name: Архив
       url: /archives/
       weight: 20
